@@ -20,7 +20,7 @@ All XOXO participants are required to wear a high-quality mask at all times whil
 
 Each event on our festival schedule will include details for mask requirements, capacity, and availability of outdoor seating. Speakers and performers will not be required to wear masks on stage.
 
-Masks should be N95, KN95, or KF94 masks, cover the nose and mouth completely, and worn properly throughout the event. Disposable “paper” surgical masks and cloth masks are not allowed.
+Masks should be N95, KN95, or KF94 (or an equivalent government standard) masks, cover the nose and mouth completely, and worn properly throughout the event. Disposable “paper” surgical masks, masks with exhalation valves, and cloth masks are not allowed.
 
 ## Testing
 
