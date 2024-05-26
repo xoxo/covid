@@ -42,7 +42,7 @@ Due to the changes over time in the relevance of vaccination status in risk calc
 
 ## No Roll Back
 
-This COVID policy is a living policy, and may receive clarifying edits between now and the festival. However, we will not remove or downgrade any aspect of our COVID Policy between our launch announcement and the dates of the festival.
+This COVID policy is a living policy, and may receive clarifying edits between now and the festival. However, we will not remove or downgrade any aspect of our COVID policy between our launch announcement and the dates of the festival.
 
 ## Credits
 
