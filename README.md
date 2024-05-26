@@ -24,7 +24,7 @@ This year we’re offering two pass types, a **Theater Pass** and a **Park Pass*
 
 A Theater Pass gives you access to seating inside our main venue, Revolution Hall, allowing you to watch our main stage programming. You should purchase a Theater Pass if you’re comfortable sitting inside in a large group, wearing a high-quality mask.
 
-A Park Pass gives you access to the reserved seating area at the Park Stage, inside the tent in Washington High Park, where you can watch a live stream of our main stage programming. You should purchase a Pass Pass if you are more comfortable sitting in a well-ventilated space outside with a smaller group, wearing a high-quality mask.
+A Park Pass gives you access to the reserved seating area at the Park Stage, inside the tent in Washington High Park, where you can watch a live stream of our main stage programming. You should purchase a Park Pass if you are more comfortable sitting in a well-ventilated space outside with a smaller group, wearing a high-quality mask.
 
 Read more about our [Pass Types](guide/passes/) and [How Registration Works](guide/registration/).
 
