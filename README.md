@@ -2,9 +2,9 @@
 
 **This is a living policy, subject to continual refinement and expansion. Last updated May 26, 2024**.
 
-Everyone attending XOXO is required to agree to the following COVID Policy. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
+Everyone attending XOXO is required to agree to the following COVID policy. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
 
-Anyone who violates this COVID Policy may be removed from the festival at the discretion of the XOXO organizers.
+Anyone who violates our COVID policy may be removed from the festival at the discretion of the XOXO organizers.
 
 If you have questions about this policy, or suggestions for ways it might be improved, please contact us at [hi@xoxofest.com](mailto:hi@xoxofest.com).
 
@@ -14,7 +14,7 @@ All XOXO attendees are **required to wear a high-quality mask at all times while
 
 Masks should be N95, KN95, or KF94 (or equivalent government standard), cover the nose and mouth completely, and worn properly while inside our venues. Disposable “paper” surgical masks, masks with exhalation valves, and cloth masks are not permitted.
 
-**Masks are not required outside**, including in Washington High Park and the Show Bar patio. Our speakers, performers, and hosts are also required to follow this policy backstage, but will not be required to wear masks while presenting.
+**Masks are not required outside**, including in Washington High Park and the Show Bar patio. Our speakers, performers, and hosts are also required to wear a high-quality mask backstage, but will not be required to wear masks while presenting.
 
 Each XOXO Social event on our schedule will include specific details for mask requirements, capacity, and availability of outdoor seating.
 
@@ -26,7 +26,7 @@ A Theater Pass gives you access to seating inside our main venue, Revolution Hal
 
 A Park Pass gives you access to the reserved seating area at the Park Stage, inside the tent in Washington High Park, where you can watch a live stream of our main stage programming. You should purchase a Park Pass if you are more comfortable sitting in a well-ventilated space outside with a smaller group, wearing a high-quality mask.
 
-Read more about our [Pass Types](guide/passes/) and [How Registration Works](guide/registration/).
+Read more about our [Pass Types](/guide/passes/) and [How Registration Works](/guide/registration/).
 
 ## Testing
 
