@@ -44,8 +44,8 @@ Due to the changes over time in the relevance of vaccination status in risk calc
 
 This COVID policy is a living policy, and may receive clarifying edits between now and the festival. However, we will not remove or downgrade any aspect of our COVID policy between our launch announcement and the dates of the festival.
 
-## Credits
-
-This policy was based on similar policies shared by the [Brooklyn Art Book Fair](https://fullymaskednotes.carrd.co/), [InterConnect](https://docs.google.com/document/d/1N_HKMc9n__WWw7_gFbq7gL2rwFcffE_vITUicLCmqxA/edit?usp=sharing), and [PyCon US](https://us.pycon.org/2024/about/health-safety-guidelines/), as well as resources provided by the [People’s CDC](https://peoplescdc.org/2022/11/17/safer-in-person-gatherings/).
+## License
 
 This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/covid). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
+
+This policy was based on similar policies shared by the [Brooklyn Art Book Fair](https://fullymaskednotes.carrd.co/), [InterConnect](https://docs.google.com/document/d/1N_HKMc9n__WWw7_gFbq7gL2rwFcffE_vITUicLCmqxA/edit?usp=sharing), and [PyCon US](https://us.pycon.org/2024/about/health-safety-guidelines/), as well as resources provided by the [People’s CDC](https://peoplescdc.org/2022/11/17/safer-in-person-gatherings/).
